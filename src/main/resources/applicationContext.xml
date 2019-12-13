@@ -29,7 +29,7 @@
         <!-- 引入映射文件 -->
         <property name="mappingResources">
             <list>
-                <value>com/tanlei/pojo/hbm/User.hbm.xml</value>
+                <value>User.hbm.xml</value>
             </list>
         </property>
    </bean>
